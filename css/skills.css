@@ -1,9 +1,8 @@
 .skills{
 	float: right;
-  /*padding-right: 10px;*/
+  background-color: #cfc9c8;
   width: 20%;
   height: 100%;
-  /*padding-left: 5px;*/
 }
 .skills ul{
   list-style: none;
