@@ -1,6 +1,8 @@
-.carrer_objective{
+.carrer_objective,.projects{
 	padding: 10px;
 	width: 80%;
+	padding-right: 20px;
+	border-right: 5px solid #dcdce3;
 }
 
 .carrer_objective p{
@@ -17,3 +19,24 @@
 	box-shadow: 5px 10px 10px #6a4aed ;
 	display: block;
 }
+
+.projects li{
+	font-size: 25px;
+	padding-top: 20px;
+	border-top: 2px dashed #dcdce3;
+}
+.projects ul{
+	font-size: 25px;
+	color: #ffffff;
+	background-color: #6b4aedd8;
+	transition: .8s;
+	width: 95%;
+}
+
+.projects ul:hover{
+	border: 10px solid #6a4aed;
+	background-color: #6a4aed;
+	box-shadow: 5px 10px 10px #6a4aed ;
+	display: block;
+}
+
