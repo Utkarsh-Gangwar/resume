@@ -1,0 +1,19 @@
+.carrer_objective{
+	padding: 10px;
+	width: 80%;
+}
+
+.carrer_objective p{
+	font-size: 25px;
+	color: #ffffff;
+	background-color: #6b4aedd8;
+	transition: .8s;
+	width: 100%;
+}
+
+.carrer_objective p:hover{
+	border: 10px solid #6a4aed;
+	background-color: #6a4aed;
+	box-shadow: 5px 10px 10px #6a4aed ;
+	display: block;
+}
