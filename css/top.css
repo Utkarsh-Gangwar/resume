@@ -22,9 +22,9 @@ header::after{
 nav{
   float: right;
 }
-nav ul{
+/*nav ul{
   list-style: none;
-}
+}*/
 nav li{
   display: inline-block;
   padding-left: 20px;
