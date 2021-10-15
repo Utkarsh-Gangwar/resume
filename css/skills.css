@@ -1,0 +1,8 @@
+.skills{
+	float: right;
+}
+
+.skills a:hover{
+  background-color: #6a4aed;
+  border: 10px solid #6a4aed;
+}
