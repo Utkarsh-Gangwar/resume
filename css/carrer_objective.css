@@ -3,6 +3,7 @@
 	width: 80%;
 	padding-right: 20px;
 	border-right: 5px solid #dcdce3;
+	float: left;
 }
 
 .carrer_objective p{
@@ -21,7 +22,7 @@
 }
 
 .projects li{
-	font-size: 25px;
+	font-size: 30px;
 	padding-top: 20px;
 	border-top: 2px dashed #dcdce3;
 }
@@ -30,7 +31,7 @@
 	color: #ffffff;
 	background-color: #6b4aedd8;
 	transition: .8s;
-	width: 95%;
+	padding-right: 25px;
 }
 
 .projects ul:hover{
