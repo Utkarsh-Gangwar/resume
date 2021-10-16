@@ -10,6 +10,7 @@
 	font-size: 25px;
 	color: #ffffff;
 	background-color: #6b4aedd8;
+	border-radius: 10px;
 	transition: .8s;
 	width: 100%;
 }
@@ -31,6 +32,7 @@
 	color: #ffffff;
 	background-color: #6b4aedd8;
 	transition: .8s;
+	border-radius: 10px;
 	padding-right: 25px;
 }
 
