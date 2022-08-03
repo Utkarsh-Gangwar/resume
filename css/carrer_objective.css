@@ -1,4 +1,4 @@
-.carrer_objective,.projects{
+.carrer_objective,.projects, .Experience{
 	padding: 10px;
 	width: 75%;
 	/*padding-right: 20px;*/
@@ -6,40 +6,51 @@
 	float: left;
 }
 
-.carrer_objective p{
+.carrer_objective p, .Experience p{
 	font-size: 25px;
 	color: #ffffff;
-	background-color: #6b4aedd8;
+	/*background-color: #6b4aedd8;*/
 	border-radius: 10px;
 	transition: .8s;
 	width: 100%;
 }
 
-.carrer_objective p:hover{
-	border: 10px solid #6a4aed;
-	background-color: #6a4aed;
-	box-shadow: 5px 10px 10px #6a4aed ;
+.Experience h3,h4,h5{
+	color: white;
+  	margin: 0px;
+  	padding: 0px
+}
+
+.Experience p{
+	margin-bottom: 15px;
+	margin-top: 0px;
+}
+
+.Experience, .carrer_objective, .projects{
+	border: 2px solid white;
+	margin-bottom: 20px;
+	border-radius: 50px;
+}
+.carrer_objective p:hover, .Experience p:hover{
+	box-shadow: 5px 10px 10px white ;
 	display: block;
 }
 
 .projects li{
 	font-size: 30px;
 	padding-top: 20px;
-	border-top: 2px dashed #dcdce3;
 }
 .projects ul{
 	font-size: 25px;
 	color: #ffffff;
-	background-color: #6b4aedd8;
 	transition: .8s;
 	border-radius: 10px;
 	padding-right: 25px;
 }
 
 .projects ul:hover{
-	border: 10px solid #6a4aed;
-	background-color: #6a4aed;
-	box-shadow: 5px 10px 10px #6a4aed ;
+	border: 10px solid wheat;
+	background-color: wheat;
+	box-shadow: 5px 10px 10px wheat ;
 	display: block;
 }
-

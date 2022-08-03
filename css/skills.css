@@ -4,6 +4,7 @@
   width: 20%;
   height: 100%;
 }
+
 .skills ul{
   list-style: none;
 }
@@ -23,10 +24,4 @@
   background-color: #dcdce3;
   border-radius: 5px;
   font-size: 20px;
-}
-
-.skills h1:hover{
-  cursor: none;
-  background-color: #dcdce3;
-  border-radius: 5px;
 }
