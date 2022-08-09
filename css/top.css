@@ -1,6 +1,13 @@
 header{
   border-radius: 5px;
 }
+
+.ContactInfo{
+  border-radius: 50%;
+  border-color: transparent;
+  float: left;
+}
+
 .top{
   width: 80%;
 }

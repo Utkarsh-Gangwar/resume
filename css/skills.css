@@ -13,15 +13,15 @@
   transition: 0.6s;
   padding-top: 5px;
   padding-bottom: 5px;
-  color: #5c5d5e;
+  color: white;
 }
 
 .skills a{
-  color: #000000;
+  color: white;
 }
 
 .skills li:hover{
-  background-color: #dcdce3;
+  background-color: brown;
   border-radius: 5px;
   font-size: 20px;
 }

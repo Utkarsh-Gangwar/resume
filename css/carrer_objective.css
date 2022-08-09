@@ -40,7 +40,7 @@
 	font-size: 30px;
 	padding-top: 20px;
 }
-.projects ul{
+.projects ul, .projects a{
 	font-size: 25px;
 	color: #ffffff;
 	transition: .8s;
@@ -48,9 +48,12 @@
 	padding-right: 25px;
 }
 
+.projects a{
+	text-decoration: underline;
+}
+
 .projects ul:hover{
-	border: 10px solid wheat;
-	background-color: wheat;
+	border: 5px solid wheat;
 	box-shadow: 5px 10px 10px wheat ;
 	display: block;
 }
