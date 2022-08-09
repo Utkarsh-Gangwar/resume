@@ -53,7 +53,7 @@
 }
 
 .projects ul:hover{
-	border: 5px solid wheat;
-	box-shadow: 5px 10px 10px wheat ;
+	border: 2px solid white;
+	box-shadow: 5px 10px 10px white ;
 	display: block;
 }
